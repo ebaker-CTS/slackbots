@@ -18,7 +18,6 @@ bot.on('start', function(){
     'I am alive!');
 });
 
-
 bot.on('message', function(message) {
   if(message.text == 'xkcd'){
     var url = 'http://xkcd.com/';
