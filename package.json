@@ -1,0 +1,15 @@
+{
+  "name": "slackxckdbot",
+  "version": "1.0.0",
+  "description": "A bot that posts xkcd comics in slack channels",
+  "main": "xkcdbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pmckinney",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "xml2js": "^0.4.16"
+  }
+}
